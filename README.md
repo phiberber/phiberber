@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<script>
+    console.log("Hello, this is Phiberber's repository!");
+</script>

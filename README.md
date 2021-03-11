@@ -6,6 +6,7 @@
 <a href="#" style="margin-left:20px;"><img align="right" src="https://github.com/phiberber/phiberber/blob/main/assets/lucky_clover.gif?raw=true" width="250" height="250"/></a>
 
 ### :wave: Welcome to my GitHub profile!
+
 I am a 16 years old IT student; Focused on Back-end but still having Front-End skills. I am focused on JVM Languages like Clojure, Kotlin and Java;
 
 I am coding for more than five years already, doing UI and UX designs for 4 years. Most of my repositories are private (as they are not open-source), in case you want to test my knowledge about something, consider an exam or an interview.
@@ -14,7 +15,7 @@ Following you can see a list of Languages / DSBM / Frameworks that I know how to
 
 &nbsp;&nbsp;
 
-## :sparkles: Knowledge:
+### :sparkles: Knowledge:
 
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&labelColor=6ada83&logoColor=white&color=0e0e1f)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?logo=kotlin&labelColor=6ada83&logoColor=white&color=0e0e1f)

@@ -78,6 +78,8 @@ Following you can see a list of Languages / DSBM / Frameworks that I know how to
   
   <img src="https://random-coding-meme.herokuapp.com/" alt="Nice laugh" width=460/>
   
+  *Fetched from a coding focused sub-reddit.*
+  
 </details>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&style=social&logo=Gmail&logoColor=white&link=mailto:phiberberian@gmail.com)](mailto:phiberberian@gmail.com)

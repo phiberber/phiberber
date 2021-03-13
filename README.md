@@ -1,6 +1,4 @@
 ![My name](https://github.com/phiberber/phiberber/raw/main/assets/animated_logo.svg)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&style=social&logo=Gmail&logoColor=white&link=mailto:phiberberian@gmail.com)](mailto:phiberberian@gmail.com)
-[![Discord Badge](https://img.shields.io/badge/-Peixe-4153?style=flat-square&style=social&logo=Discord&logoColor=white&link=https://discordapp.com/users/670698504670150668/)](https://discordapp.com/users/670698504670150668/)
 
 <a href="#" style="margin-left:20px;"><img align="right" src="https://github.com/phiberber/phiberber/blob/main/assets/lucky_clover.gif?raw=true" width="250" height="250"/></a>
 
@@ -71,5 +69,8 @@ Following you can see a list of Languages / DSBM / Frameworks that I know how to
   
 
 </details>
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&style=social&logo=Gmail&logoColor=white&link=mailto:phiberberian@gmail.com)](mailto:phiberberian@gmail.com)
+[![Discord Badge](https://img.shields.io/badge/-Peixe-4153?style=flat-square&style=social&logo=Discord&logoColor=white&link=https://discordapp.com/users/670698504670150668/)](https://discordapp.com/users/670698504670150668/)
 
 ![About me](https://github-readme-stats.vercel.app/api?username=phiberber&show_icons=true&theme=dark)

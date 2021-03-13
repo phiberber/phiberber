@@ -70,7 +70,16 @@ Following you can see a list of Languages / DSBM / Frameworks that I know how to
 
 </details>
 
+<details>
+
+  <summary> <b> 🤗 Time to a Laugh</b> <i>(Expand)</i> </summary>
+  
+  <img src="https://random-coding-meme.herokuapp.com/" alt="Nice laugh" width=460/>
+  
+</details>
+
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&style=social&logo=Gmail&logoColor=white&link=mailto:phiberberian@gmail.com)](mailto:phiberberian@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/-Peixe-4153?style=flat-square&style=social&logo=Discord&logoColor=white&link=https://discordapp.com/users/670698504670150668/)](https://discordapp.com/users/670698504670150668/)
 
-![About me](https://github-readme-stats.vercel.app/api?username=phiberber&show_icons=true&theme=dark)
+
+![About me](https://github-readme-stats.vercel.app/api?username=phiberber&show_icons=true&title_color=ffffff&bg_color=0e0e1f&hide_border=true&text_color=bababa&icon_color=62c678)

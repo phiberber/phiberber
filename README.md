@@ -5,7 +5,7 @@
 
 <a href="#" style="margin-left:20px;"><img align="right" src="https://github.com/phiberber/phiberber/blob/main/assets/lucky_clover.gif?raw=true" width="250" height="250"/></a>
 
-### :wave: Welcome to my GitHub profile!
+### :wave: Welcome to my GitHub profile! [![Follow Me](https://img.shields.io/github/followers/phiberber?label=Follow%20me%21&&labelColor=6ada83&logoColor=white&color=0e0e1f)](https://img.shields.io/github/followers/phiberber?label=Follow%20me%21&&labelColor=6ada83&logoColor=white&color=0e0e1f) [![Stars](https://img.shields.io/github/stars/phiberber?&labelColor=6ada83&logoColor=white&color=0e0e1f)](https://img.shields.io/github/stars/phiberber?&labelColor=6ada83&logoColor=white&color=0e0e1f)
 
 I am a 16 years old IT student; Focused on Back-end but still having Front-End skills. I am focused on JVM Languages like Clojure, Kotlin and Java;
 
@@ -72,8 +72,5 @@ Following you can see a list of Languages / DSBM / Frameworks that I know how to
   
 
 </details>
-
-[![Follow Me](https://img.shields.io/github/followers/phiberber?label=Follow%20me%21&&labelColor=6ada83&logoColor=white&color=0e0e1f)](https://img.shields.io/github/followers/phiberber?label=Follow%20me%21&&labelColor=6ada83&logoColor=white&color=0e0e1f)
-[![Stars](https://img.shields.io/github/stars/phiberber?&labelColor=6ada83&logoColor=white&color=0e0e1f)](https://img.shields.io/github/stars/phiberber?&labelColor=6ada83&logoColor=white&color=0e0e1f)
 
 ![About me](https://github-readme-stats.vercel.app/api?username=phiberber&show_icons=true&theme=dark)

@@ -74,6 +74,8 @@ Following you can see a list of Languages / DSBM / Frameworks that I know how to
 
   <summary> <b> 🤗 Time to a Laugh</b> <i>(Expand)</i> </summary>
   
+  &nbsp;
+  
   <img src="https://random-coding-meme.herokuapp.com/" alt="Nice laugh" width=460/>
   
 </details>

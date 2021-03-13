@@ -1,5 +1,4 @@
 ![My name](https://github.com/phiberber/phiberber/raw/main/assets/animated_logo.svg)
-
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&style=social&logo=Gmail&logoColor=white&link=mailto:phiberberian@gmail.com)](mailto:phiberberian@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/-Peixe-4153?style=flat-square&style=social&logo=Discord&logoColor=white&link=https://discordapp.com/users/670698504670150668/)](https://discordapp.com/users/670698504670150668/)
 

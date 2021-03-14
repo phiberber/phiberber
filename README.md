@@ -1,6 +1,6 @@
-![My name](https://github.com/phiberber/phiberber/raw/main/assets/animated_logo.svg)
+![My name](/assets/animated_logo.svg)
 
-<a href="#" style="margin-left:20px;"><img align="right" src="https://github.com/phiberber/phiberber/blob/main/assets/lucky_clover.gif?raw=true" width="250" height="250"/></a>
+<a href="#" style="margin-left:20px;"><img align="right" src="/assets/lucky_clover.gif?raw=true" width="250" height="250"/></a>
 
 ### :wave: Welcome to my GitHub profile! [![Follow Me](https://img.shields.io/github/followers/phiberber?label=Follow%20me%21&&labelColor=6ada83&logoColor=white&color=0e0e1f)](https://img.shields.io/github/followers/phiberber?label=Follow%20me%21&&labelColor=6ada83&logoColor=white&color=0e0e1f) [![Stars](https://img.shields.io/github/stars/phiberber?&labelColor=6ada83&logoColor=white&color=0e0e1f)](https://img.shields.io/github/stars/phiberber?&labelColor=6ada83&logoColor=white&color=0e0e1f)
 

@@ -4,11 +4,7 @@
 
 ### :wave: Welcome to my GitHub profile! [![Follow Me](https://img.shields.io/github/followers/phiberber?label=Follow%20me%21&&labelColor=6ada83&logoColor=white&color=0e0e1f)](https://img.shields.io/github/followers/phiberber?label=Follow%20me%21&&labelColor=6ada83&logoColor=white&color=0e0e1f) [![Stars](https://img.shields.io/github/stars/phiberber?&labelColor=6ada83&logoColor=white&color=0e0e1f)](https://img.shields.io/github/stars/phiberber?&labelColor=6ada83&logoColor=white&color=0e0e1f)
 
-I am a 16 years old IT student; Focused on Back-end but still having Front-End skills. I am focused on JVM Languages like Clojure, Kotlin and Java;
-
-I am coding for more than five years already, doing UI and UX designs for 4 years. Most of my repositories are private (as they are not open-source), in case you want to test my knowledge about something, consider an exam or an interview.
-
-Following you can see a list of Languages / DSBM / Frameworks that I know how to use.
+I'm a 16 years old IT student; Coding for over than 5 years, I'm focused on JVM Languages like Java, Kotlin and Clojure. Aside from being a programmer, I'm also an UI/UX/Graphic/Motion designer. In case you want to test my knowledge about something, consider a pratical interview.
 
 <details>
 

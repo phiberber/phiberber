@@ -68,11 +68,11 @@ I'm a 16 years old IT student; Coding for over than 5 years, I'm focused on JVM 
 
 <details>
 
-  <summary> <b> 🤗 Time to a Laugh</b> <i>(Expand)</i> </summary>
+  <summary> <b> 🤗 Time to Laugh</b> <i>(Expand)</i> </summary>
   
   &nbsp;
   
-  <img src="https://random-coding-meme.herokuapp.com/" alt="Nice laugh" width=460/>
+  <img src="https://random-coding-meme.herokuapp.com/" alt="So funny" width=460/>
   
   *Fetched from a coding themed sub-reddit.*
   

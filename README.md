@@ -74,7 +74,7 @@ I'm a 16 years old IT student; Coding for over than 5 years, I'm focused on JVM 
   
   <img src="https://random-coding-meme.herokuapp.com/" alt="Nice laugh" width=460/>
   
-  *Fetched from a coding focused sub-reddit.*
+  *Fetched from a coding themed sub-reddit.*
   
 </details>
 

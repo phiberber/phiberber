@@ -4,7 +4,7 @@
 
 ### :wave: Welcome to my GitHub profile! [![Follow Me](https://img.shields.io/github/followers/phiberber?label=Follow%20me%21&&labelColor=6ada83&logoColor=white&color=0e0e1f)](https://img.shields.io/github/followers/phiberber?label=Follow%20me%21&&labelColor=6ada83&logoColor=white&color=0e0e1f) [![Stars](https://img.shields.io/github/stars/phiberber?&labelColor=6ada83&logoColor=white&color=0e0e1f)](https://img.shields.io/github/stars/phiberber?&labelColor=6ada83&logoColor=white&color=0e0e1f)
 
-I'm a 16 years old IT student; Coding for over than 5 years, I'm focused on JVM Languages like Java, Kotlin and Clojure. Aside from being a programmer, I'm also an UI/UX/Graphic/Motion designer. In case you want to test my knowledge about something, consider a pratical interview.
+I'm a 17 years old IT student; Coding for over than 5 years, I'm focused on JVM Languages like Java, Kotlin and Clojure. Aside from being a programmer, I'm also an UI/UX/Graphic/Motion designer. In case you want to test my knowledge about something, consider a pratical interview.
 
 <details>
 

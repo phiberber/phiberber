@@ -61,7 +61,7 @@ I'm a 17 years old IT student; Coding for over than 5 years, I'm focused on JVM 
   
   &nbsp;
   
-  <img src="https://random-coding-meme.herokuapp.com/" alt="So funny" width=460/>
+  <img src="https://random-programming-meme.herokuapp.com/" alt="So funny" width=460/>
   
   *Fetched from a coding themed sub-reddit.*
   

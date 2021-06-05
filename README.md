@@ -24,25 +24,21 @@ I'm a 17 years old IT student; CEO and CTO of Veacci, coding for over than 6 yea
   ![Sass](https://img.shields.io/badge/-Sass-black?logo=sass&labelColor=6ada83&logoColor=white&color=0e0e1f)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript&labelColor=6ada83&logoColor=white&color=0e0e1f)
   ![Dart](https://img.shields.io/badge/-Dart-black?logo=dart&labelColor=6ada83&logoColor=white&color=0e0e1f)
-  ![NodeJS](https://img.shields.io/badge/-NodeJS-black?logo=node.js&labelColor=6ada83&logoColor=white&color=0e0e1f)
+  ![NodeJS](https://img.shields.io/badge/-NodeJS-black?logo=node-js&labelColor=6ada83&logoColor=white&color=0e0e1f)
   
-  ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&labelColor=6ada83&logoColor=white&color=0e0e1f)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&labelColor=6ada83&logoColor=white&color=0e0e1f)
-
-  ![Git](https://img.shields.io/badge/-Git-black?logo=git&labelColor=6ada83&logoColor=white&color=0e0e1f)
-
-  ![React](https://img.shields.io/badge/-React-black?logo=react&labelColor=6ada83&logoColor=white&color=0e0e1f)
-  ![Gatsby](https://img.shields.io/badge/-Gatsby-black?logo=gatsby&labelColor=6ada83&logoColor=white&color=0e0e1f)
-  ![NextJS](https://img.shields.io/badge/-NextJS-black?logo=next.jslabelColor=998cfa&logoColor=white&color=0e0e1f)
-  ![NuxtJS](https://img.shields.io/badge/-NuxtJS-black?logo=nuxt.js&labelColor=6ada83&logoColor=white&color=0e0e1f)
-  ![Vue](https://img.shields.io/badge/-Vue-black?logo=vue.js&labelColor=6ada83&logoColor=white&color=0e0e1f)
-
-  ![GraphQL](https://img.shields.io/badge/-GraphQL-black?logo=graphql&labelColor=6ada83&logoColor=white&color=0e0e1f)
-
-  ![After](https://img.shields.io/badge/-AfterEffects-black?logo=adobe-after-effects&labelColor=6ada83&logoColor=white&color=0e0e1f)
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-black?logo=adobe-illustrator&labelColor=6ada83&logoColor=white&color=0e0e1f)
-  ![XD](https://img.shields.io/badge/-XD-black?logo=adobe-xd&labelColor=6ada83&logoColor=white&color=0e0e1f)
+  ![React](https://img.shields.io/badge/-React-black?labelColor=6ada83&logoColor=white&color=0e0e1f)
+  ![Gatsby](https://img.shields.io/badge/-Gatsby-black?labelColor=6ada83&logoColor=white&color=0e0e1f)
+  ![NextJS](https://img.shields.io/badge/-NextJS-black?labelColor=6ada83&logoColor=white&color=0e0e1f)
+  ![NuxtJS](https://img.shields.io/badge/-NuxtJS-black?labelColor=6ada83&logoColor=white&color=0e0e1f)
+  ![Vue](https://img.shields.io/badge/-Vue-black?labelColor=6ada83&logoColor=white&color=0e0e1f)
   
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-black?labelColor=6ada83&logoColor=white&color=0e0e1f)
+  ![MySQL](https://img.shields.io/badge/-MySQL-black?labelColor=6ada83&logoColor=white&color=0e0e1f)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?labelColor=6ada83&logoColor=white&color=0e0e1f)
+
+  ![After](https://img.shields.io/badge/-AfterEffects-black?labelColor=6ada83&logoColor=white&color=0e0e1f)
+  ![Illustrator](https://img.shields.io/badge/-Illustrator-black?labelColor=6ada83&logoColor=white&color=0e0e1f)
+  ![XD](https://img.shields.io/badge/-XD-black?labelColor=6ada83&logoColor=white&color=0e0e1f)
 
 </details>
 

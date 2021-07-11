@@ -56,5 +56,3 @@ I am a 17 years old IT student. Been coding for over than 7 years; I consider my
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&style=social&logo=Gmail&logoColor=white&link=mailto:phiberberian@gmail.com)](mailto:phiberberian@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/-Peixe-0101?style=flat-square&style=social&logo=Discord&logoColor=white&link=https://discordapp.com/users/670698504670150668/)](https://discordapp.com/users/670698504670150668/)
-
-![About me](https://github-readme-stats.vercel.app/api?username=phiberber&show_icons=true&title_color=ffffff&bg_color=0e0e1f&hide_border=true&text_color=bababa&icon_color=62c678)

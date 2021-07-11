@@ -4,11 +4,11 @@
 
 ### :wave: Welcome to my GitHub profile! [![Follow Me](https://img.shields.io/github/followers/phiberber?label=Follow%20me%21&&labelColor=6ada83&logoColor=white&color=0e0e1f)](https://img.shields.io/github/followers/phiberber?label=Follow%20me%21&&labelColor=6ada83&logoColor=white&color=0e0e1f) [![Stars](https://img.shields.io/github/stars/phiberber?&labelColor=6ada83&logoColor=white&color=0e0e1f)](https://img.shields.io/github/stars/phiberber?&labelColor=6ada83&logoColor=white&color=0e0e1f)
 
-I'm a 17 years old IT student; CEO and CTO of Veacci, coding for over than 6 years, I'm focused on JVM Languages like Java, Kotlin and Clojure. Aside from being a programmer, I'm also an UI/UX/Graphic/Motion designer. 
+I am a 17 years old IT student. Been coding for over than 7 years; I consider myself a fullstack developer, as you can see the majoritary of my projects are written on Node, but the languages that I have the most experience with are Java, Kotlin and Clojure. Aside from being a programmer, I am also a perfecionist and detailist designer, which trust me, doesn't come handy. If you are up to talk, hit me up!
 
 <details>
 
-  <summary> <b> ✨ Knowledge</b> <i>(Expand)</i> </summary>
+  <summary> <b> ✨ Understanding of</b> <i>(Expand)</i> </summary>
   
   &nbsp;
   
@@ -55,7 +55,6 @@ I'm a 17 years old IT student; CEO and CTO of Veacci, coding for over than 6 yea
 </details>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&style=social&logo=Gmail&logoColor=white&link=mailto:phiberberian@gmail.com)](mailto:phiberberian@gmail.com)
-[![Discord Badge](https://img.shields.io/badge/-Peixe-4153?style=flat-square&style=social&logo=Discord&logoColor=white&link=https://discordapp.com/users/670698504670150668/)](https://discordapp.com/users/670698504670150668/)
-
+[![Discord Badge](https://img.shields.io/badge/-Peixe-0101?style=flat-square&style=social&logo=Discord&logoColor=white&link=https://discordapp.com/users/670698504670150668/)](https://discordapp.com/users/670698504670150668/)
 
 ![About me](https://github-readme-stats.vercel.app/api?username=phiberber&show_icons=true&title_color=ffffff&bg_color=0e0e1f&hide_border=true&text_color=bababa&icon_color=62c678)

@@ -1,8 +1,6 @@
-![My name](/assets/animated_logo.svg)
+<a href="#" style="margin-left:20px;"><img align="right" src="https://i.giphy.com/media/3bb5jcIADH9ewHnpl9/giphy.webp" width="250" height="250"/></a>
 
-<a href="#" style="margin-left:20px;"><img align="right" src="/assets/lucky_clover.gif?raw=true" width="250" height="250"/></a>
-
-### :wave: Welcome to my GitHub profile! [![Follow Me](https://img.shields.io/github/followers/phiberber?label=Follow%20me%21&&labelColor=6ada83&logoColor=white&color=0e0e1f)](https://img.shields.io/github/followers/phiberber?label=Follow%20me%21&&labelColor=6ada83&logoColor=white&color=0e0e1f) [![Stars](https://img.shields.io/github/stars/phiberber?&labelColor=6ada83&logoColor=white&color=0e0e1f)](https://img.shields.io/github/stars/phiberber?&labelColor=6ada83&logoColor=white&color=0e0e1f)
+### Yo
 
 I am a 17 years old IT student. Been coding for over than 7 years; I consider myself a fullstack developer, as you can see the majoritary of my projects are written on Node, but the languages that I have the most experience with are Java, Kotlin and Clojure. Aside from being a programmer, I am also a perfecionist and detailist designer, which trust me, doesn't come handy. If you are up to talk, hit me up!
 

@@ -46,7 +46,7 @@ I am a 17 years old IT student. Been coding for over than 7 years; I consider my
   
   &nbsp;
   
-  <img src="https://random-programming-meme.herokuapp.com/" alt="So funny" width=460/>
+  <img src="https://random-programming-meme.herokuapp.com/" alt="Github, please stop caching" width=460/>
   
   *Fetched from a coding themed sub-reddit.*
   

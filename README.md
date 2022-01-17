@@ -2,7 +2,7 @@
 
 ### Yo
 
-I am a 17 years old IT student. Been coding for over than 7 years; I consider myself a fullstack developer, as you can see the majoritary of my projects are written on Node, but the languages that I have the most experience with are Java, Kotlin and Clojure. Aside from being a programmer, I am also a perfecionist and detailist designer, which trust me, doesn't come handy. If you are up to talk, hit me up!
+I am a 17 years old IT student. Been coding for almost 8 years; I consider myself a fullstack developer, as you can see the majoritary of my projects are written on Node, but the languages that I have the most experience with are Java, Kotlin and Clojure. Aside from being a programmer, I am also a perfecionist and detailist designer, which trust me, doesn't come handy. If you are up to talk, hit me up!
 
 <details>
 

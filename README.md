@@ -53,4 +53,4 @@ I am an 18 years old IT student. Been coding for almost 8 years; I consider myse
 </details>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&style=social&logo=Gmail&logoColor=white&link=mailto:phiberberian@gmail.com)](mailto:phiberberian@gmail.com)
-[![Discord Badge](https://img.shields.io/badge/-Peixe-0101?style=flat-square&style=social&logo=Discord&logoColor=white&link=https://discordapp.com/users/670698504670150668/)](https://discordapp.com/users/670698504670150668/)
+[![Discord Badge](https://img.shields.io/badge/-Peixe-0101?style=flat-square&style=social&logo=Discord&logoColor=white&link=https://discordapp.com/users/969002536692498452/)](https://discordapp.com/users/969002536692498452/)

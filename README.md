@@ -2,7 +2,7 @@
 
 ### Yo
 
-I am currently 18 years old, been coding and designing for almost a decade so I consider myself a developer and designer at this point, I've started a company some time ago but it didn't work out. Currently I'm focusing in developing performant frameworks, libraries and languages for the sake of my own DX, if you're up to discuss hit me up!
+I am currently `XIX` years old, been coding and designing for almost a decade so I consider myself a developer and designer at this point, I've started a company some time ago but it didn't work out. Currently I'm focusing in developing performant frameworks, libraries and languages for the sake of my own DX, if you're up to discuss hit me up!
 
 Experience: Typescript, Javascript, Dart, Kotlin, Java, Clojure, Csharp, Cpp, C, Rust, Php, Python, Perl, Bash and some others.
 
